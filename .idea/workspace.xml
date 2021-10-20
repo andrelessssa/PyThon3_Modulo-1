@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbc14b31-b806-4b9c-a582-9d2eec69ec6e" name="Changes" comment="" />
+    <list default="true" id="fbc14b31-b806-4b9c-a582-9d2eec69ec6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercicios/ex0005_operadores_aritmeticos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex0001.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex0001_ola_mundo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex0002.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex0002_Digite_seu_nome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex0003.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex0003_somando_dois_numeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex0004.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex0004_explicando_variavel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex0005.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,8 +41,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.ex0004">
-    <configuration name="ex0001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex0004_explicando_variavel">
+    <configuration name="ex0001_ola_mundo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3_Modulo-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex0001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex0001_ola_mundo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -55,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex0002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex0002_Digite_seu_nome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3_Modulo-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex0002.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex0002_Digite_seu_nome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex0003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex0003_somando_dois_numeros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3_Modulo-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex0003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex0003_somando_dois_numeros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex0004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex0004_explicando_variavel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3_Modulo-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex0004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex0004_explicando_variavel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,10 +128,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex0004" />
-        <item itemvalue="Python.ex0003" />
-        <item itemvalue="Python.ex0002" />
-        <item itemvalue="Python.ex0001" />
+        <item itemvalue="Python.ex0004_explicando_variavel" />
+        <item itemvalue="Python.ex0003_somando_dois_numeros" />
+        <item itemvalue="Python.ex0002_Digite_seu_nome" />
+        <item itemvalue="Python.ex0001_ola_mundo" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +150,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/exercicios/ex0004.py</url>
+          <url>file://$PROJECT_DIR$/exercicios/ex0004_explicando_variavel.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
