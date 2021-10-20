@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbc14b31-b806-4b9c-a582-9d2eec69ec6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/ex0005_operadores_aritmeticos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex0001.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex0001_ola_mundo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex0002.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex0002_Digite_seu_nome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex0003.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex0003_somando_dois_numeros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex0004.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex0004_explicando_variavel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex0005.py" beforeDir="false" />
-    </list>
+    <list default="true" id="fbc14b31-b806-4b9c-a582-9d2eec69ec6e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
