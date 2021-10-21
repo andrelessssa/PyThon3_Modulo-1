@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbc14b31-b806-4b9c-a582-9d2eec69ec6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/ex0006_antecessor_sucessor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex0007_calculo_da_media.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex0008_metros_para_centimetros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex0009_calculadora.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex0010__reais_para_dólar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex0011_calcular_area_geométrica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/exoo12_porcentagem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex0005_operadores_aritmeticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex0005_operadores_aritmeticos.py" afterDir="false" />
-    </list>
+    <list default="true" id="fbc14b31-b806-4b9c-a582-9d2eec69ec6e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
