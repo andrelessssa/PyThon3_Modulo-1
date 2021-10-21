@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbc14b31-b806-4b9c-a582-9d2eec69ec6e" name="Changes" comment="" />
+    <list default="true" id="fbc14b31-b806-4b9c-a582-9d2eec69ec6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercicios/ex0006_antecessor_sucessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex0007_calculo_da_media.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex0008_metros_para_centimetros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex0009_calculadora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex0010__reais_para_dólar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex0011_calcular_area_geométrica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/exoo12_porcentagem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex0005_operadores_aritmeticos.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex0005_operadores_aritmeticos.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.ex0004_explicando_variavel">
+  <component name="RunManager" selected="Python.ex0005_operadores_aritmeticos">
     <configuration name="ex0001_ola_mundo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python3_Modulo-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,8 +128,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex0005_operadores_aritmeticos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python3_Modulo-1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex0005_operadores_aritmeticos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex0005_operadores_aritmeticos" />
         <item itemvalue="Python.ex0004_explicando_variavel" />
         <item itemvalue="Python.ex0003_somando_dois_numeros" />
         <item itemvalue="Python.ex0002_Digite_seu_nome" />
