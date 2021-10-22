@@ -2,5 +2,5 @@
 # 15%
 salario = float(input("Qual o seu salario atual ?"))
 aumento = (salario * 0.15) + salario
-print("Voce recebera um aumento de 15%, passando a receber R${}".format(aumento))
+print("Voce receberá um aumento de 15%, passando a receber R${:.2f}".format(aumento))
 
