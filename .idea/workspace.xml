@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbc14b31-b806-4b9c-a582-9d2eec69ec6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/ex0017_modulo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python3_Modulo-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python3_Modulo-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex0016.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex0016_aluguel_de_carro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex0017.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex0018_modulo_.py" afterDir="false" />
-    </list>
+    <list default="true" id="fbc14b31-b806-4b9c-a582-9d2eec69ec6e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635432309625</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="16">
+      <created>1635437949965</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635437949965</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
